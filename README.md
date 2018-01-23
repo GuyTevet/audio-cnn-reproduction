@@ -16,7 +16,9 @@ Steps to run our code:
 
 0.2 - install libav 
         brew install libav (for macOS)
+        
         sudo apt-get install libav-tools (for ubuntu)
+        
              
 0.3 - download the dataset & csv file from https://ccrma.stanford.edu/damp/ (sing! karaoke -> vocal performance (multiple songs) and place them @ ./datasets/DAMP_audio & ./datasets/DAMP_audio_labels.csv
 
