@@ -15,6 +15,7 @@ Steps to run our code:
 0.1 - clone it
 
 0.2 - install libav 
+
         brew install libav (for macOS)
         
         sudo apt-get install libav-tools (for ubuntu)
